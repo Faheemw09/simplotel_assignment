@@ -9,7 +9,7 @@ Simplotel is a responsive website showcasing various food items available for or
 
 ## Demo
 
-You can see a live demo of this website here: [Simplotel Demo](https://652a80a86c9a356a400ed88b--nimble-crostata-80ec7e.netlify.app/)
+You can see a live demo of this website here: [Simplotel Demo](https://652a86cf412cb3285b49edf7--willowy-concha-41e0a5.netlify.app/)
 
 ## Features
 
