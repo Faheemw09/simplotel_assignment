@@ -1,6 +1,6 @@
 # Simplotel
 
-This webpage is a responsive website showcasing various food items available for order. It includes a top navigation bar, a striking midsection with a background image and text overlay, and a bottom section displaying different food options available for order.
+This webpage is a responsive webpage showcasing various food items available for order. It includes a top navigation bar, a striking midsection with a background image and text overlay, and a bottom section displaying different food options available for order.
 
 ## Table of Contents
 - [Demo](#demo)
