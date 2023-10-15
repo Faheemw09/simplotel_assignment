@@ -1,6 +1,6 @@
 # Simplotel
 
-Simplotel is a responsive website showcasing various food items available for order. It includes a top navigation bar, a striking midsection with a background image and text overlay, and a bottom section displaying different food options available for order.
+This webpage is a responsive website showcasing various food items available for order. It includes a top navigation bar, a striking midsection with a background image and text overlay, and a bottom section displaying different food options available for order.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -9,7 +9,7 @@ Simplotel is a responsive website showcasing various food items available for or
 
 ## Demo
 
-You can see a live demo of this website here: [Simplotel Demo](https://652aa83f412cb33c3949ef6b--hilarious-llama-9c1674.netlify.app/)
+You can see a live demo of this website here: [Simplotel Demo](https://652ba34b56e84e4985a277ff--super-granita-fe3255.netlify.app/)
 
 ## Features
 
